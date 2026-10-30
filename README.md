@@ -154,11 +154,11 @@ Example response from the API reference, abridged — real values depend on the 
     "https://m.atcdn.co.uk/a/media/w600/d0da32981b3e414e9cc118f4002bc0a2.jpg"
   ],
   "seller": {
-    "name": "Selekt Motors",
-    "type": "dealer",
+    "name": "example",
+    "type": "example",
     "phone": "example",
-    "rating": 4.8,
-    "location": "Slough"
+    "rating": 0,
+    "location": "example"
   },
   "subtitle": null,
   "description": "Selekt Motors present this Beautiful Vauxhall  Astra 1.4L petrol !!! A GREAT SPEC CAR with Low miles and ONLY 2 OWNERS FROM NEW !! Drives…",
