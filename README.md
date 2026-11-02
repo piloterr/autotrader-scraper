@@ -69,7 +69,7 @@ response = requests.get(
     params={
         "query": "https://www.autotrader.co.uk/car-details/202606053030491",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -234,7 +234,7 @@ response = requests.get(
     params={
         "query": "https://www.autotrader.co.uk/car-search?channel=cars&postcode=W1F%208EB&price_search_type=total&sort=relevance&page=1",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
