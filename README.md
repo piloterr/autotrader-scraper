@@ -161,7 +161,7 @@ Example response from the API reference, abridged — real values depend on the 
     "location": "example"
   },
   "subtitle": null,
-  "description": "Selekt Motors present this Beautiful Vauxhall  Astra 1.4L petrol !!! A GREAT SPEC CAR with Low miles and ONLY 2 OWNERS FROM NEW !! Drives…",
+  "description": "Example Motors present this Beautiful Vauxhall  Astra 1.4L petrol !!! A GREAT SPEC CAR with Low miles and ONLY 2 OWNERS FROM NEW !! Drive…",
   "price_amount": 2499,
   "specifications": {
     "doors": "5",
